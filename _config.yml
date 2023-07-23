@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
 title: Corwin's Space
+logo: /assets/img/corwin-logo.png
 description: Corwin Cheung's projects, cv and personal information
+
+gitalk:
+  clientID: 3d4a378445ce6c4eef4c
+  clientSecret: 151367bb137caec661aa9a77ef007465e478f130
+  repo: about
+  owner: CorwinCheung2023
+
+url: https://about.corwin.com.kg
