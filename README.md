@@ -2,6 +2,12 @@
 
 - [中文](./README_CN.md)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/CheungCorwin)
+![Static Badge](https://img.shields.io/badge/Forever_Long-Bitcoin-%23f2a900?logo=bitcoin)
+![GitHub followers](https://img.shields.io/github/followers/CorwinCheung2023)
+![Keybase BTC](https://img.shields.io/keybase/btc/corwincheung)
+![GitHub top language](https://img.shields.io/github/languages/top/CorwinCheung2023/about)
+
 <p style="text-align:left"><b>Career Objective: <span style="font-size:20px">Software Architect</span></b></p>
 <p style="text-align:left"><b>Email: <span style="font-size:20px">corwin.cheung@proton.me</span></b></p>
 

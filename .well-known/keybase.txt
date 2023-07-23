@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/corwincheung
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://about.corwin.com.kg
+  * I am corwincheung (https://keybase.io/corwincheung) on keybase.
+  * I have a public key with fingerprint 4076 5999 B8C1 E75F B3AC  81E4 0C1E DF92 6C2C 9BE0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206afa2a8944228542e80a85836c204e25e73a6bad9ad1816d94669b38a17269f50a",
+      "fingerprint": "40765999b8c1e75fb3ac81e40c1edf926c2c9be0",
+      "host": "keybase.io",
+      "key_id": "0c1edf926c2c9be0",
+      "kid": "01018566b85c673d2e3a5fc86301f8d1beed169b961ddbb31ff9ef925397143815510a",
+      "uid": "d6c9f86d4a0bf5f9b34e794015b43119",
+      "username": "corwincheung"
+    },
+    "service": {
+      "hostname": "about.corwin.com.kg",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1690099208,
+  "expire_in": 157680000,
+  "prev": "bdea9c35a6cf00d3bea20f53f43a99e1035f3de2afe618ff5d55c99e85ceb561",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN7AnicZZJrUFVVFMcvr0IU4hGBUzB2ohmS13ntc8++hUOKQjooJKg8DM9jHzje
+6z2X+4IbOhFaySgIgSAk00imHyARSLABZrxKMhSQUzORM6bXqGzQGWkQh0jG9kX9
+1P6yZu/1X7/9X2vWSLCfLshnVeytT02Jn3l8vnd3OHTy0M3ASkLUZBdhqCSMaDkg
+k4xs9mKjKhMGgqRokhMUgRZ4yLI0zQOWRjwp8IBnOIkmWUQDpGcEThRkKMgUT3Ey
+ZDkOigwvUHqagwogBSKRUFRzCbJarKrZjrEsqecAhFDkJQrpgSIygsRTiCXxVVYg
+jdESFBGJC0s1m7cCmxMFG0pWNfyGL8VP7P1f/8w3SfGA40QeSJyekWnECECReI4h
+KYWXKREhmcIuIUfJsigylKJAhEGAgXqKZXgKAGrZt2MZJ3MSVHhOZgVSVICCu2OR
+HrIkBUSWoSjoFdqQ1SzsQ1gtadZy1SyVIoe5hDiQSOCMU5WQd7jebp6qBFFz2JOf
+aHHYl2wswRiLVbNrkmbCglK73WIzeAF2l8VbUY7E4qesYlE1y3ikuMKJrDZVMxMG
+Cislu+qF49ZIEkKa5BMJVGFRrahY9SqAnuNJfLz/ICdGijISoMQAgZMUkpQZEQk0
+qQBGYRkBQkSRDFAYGdGCgjiKVxQgAyDhBB4rEgFHEd7uyswaYdBjm0IJRtrUErNg
+d1gRceCyu8hf5xOkey7A17tquqAVoc8WsPGrFxb9jiR03J4ImW4Nn4lQ40rTlh43
+m7ffS806BvXPV9+YdEfXPzr443d9b76k/QXe33H3y7iYvj39I68k1G49F2SaUBzv
+nW7PWMj+Nb7jm0g14PW5wsmPx4/1dL8695Fn0veotfq1kyOmNtOLH17Zazzvf7i6
+cZd4+9vfwiK7UGVcdv6pgDfq1r29sDbS13Eub346e8Xvk0atZLB7NtRZlbGz6vSl
+qbGkE2PXxpZKLamBLzdcDGv9pW3Q0+IXEJYbHr9mI8+NdUzEbah9mFzprkpRqvr7
+BlMPRwVFhtennc3ZFDvfWF97Z6AnM911qTWnxt/oMCXEdEZMEev/1PLdDbbR5gfz
+SV1DHxQ6dB26iCsFMxduQFueBRwPW+lZCOs9Mbc21uPJvRXf33bX7a811Fz+59Du
+6U8CGnYOLv1QUZvfOZzVmbLayF8s+zfrZuUQzEtfzG/yGTtYAGeba5rOlJ8KCw4V
+/E8Gjx3fUnS01/D3lvhth3a8u6E8Zfh85tbAgjp140/rWztHfc/ap76+Gr1/W+bj
+9Kv365yMGwyvbi9IDikKCTxT3LqmLOGP+4sZaffC77Qk9UwHDiDX9twLExWRrrz2
+suyWd2anoz0ru1ddH32QM/DWrsLNUb4PJ3xmvugdrNuzOeBIVftARdOmjP3K9d2G
+GHrOGf15z6O946H8z7F111zruqIax9WZ/wB1wb3h
+=O3H4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/corwincheung
+
+==================================================================
