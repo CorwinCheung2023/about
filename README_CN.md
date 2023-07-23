@@ -2,9 +2,8 @@
 
 - [English](./README.md)
 
-<p style="text-align:left"><b>期望职位: 软件架构师</b></p>
-<p style="text-align:left"><b>电子邮件: corwin.cheung@proton.me</b></p>
-<p style="text-align:left"><b>学历: 全日制本科(数学专业)</b></p>
+<p style="text-align:left"><b>期望职位: <span style="font-size:20px">软件架构师</span></b></p>
+<p style="text-align:left"><b>电子邮件: <span style="font-size:20px">corwin.cheung@proton.me</span></b></p>
 
 ## **自我介绍**
 
@@ -80,3 +79,7 @@
 7. 智能合约与区块链协议
 
    熟悉 **Solidity** 代码, 了解 ERC20, ERC721 等主流协议, 使用 **HardHat** 进行合约项目管理, 以及常用开源库 **OpenZeppelin** 的使用, 支持 **Ordinals** 生态的 BRC20 和 BRC721 协议.
+
+## **教育背景**
+
+<p style="text-align:left"><b>学历: 全日制本科(数学专业)</b></p>
