@@ -1,4 +1,6 @@
-# Corwin Cheung 简历
+# Corwin Cheung 的简历
+
+- [English](./README.md)
 
 <p style="text-align:left"><b>期望职位: 软件架构师</b></p>
 <p style="text-align:left"><b>电子邮件: corwin.cheung@proton.me</b></p>

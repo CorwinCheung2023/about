@@ -1,1 +1,3 @@
-# Corwin Cheung CV
+# Corwin Cheung
+
+- [中文](./README_CN.md)
