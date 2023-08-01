@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<h1 style="text-align:center;">Corwin Finance</h1>
+<div style="margin: 40px;">
 
-<h3 style="text-align:center;">One-site solutions for all the cryptocurrency investors</h3>
+<h1 style="text-align:center; padding-top: 40px;">Corwin Finance</h1>
 
-<div style="text-align:center;">
+<h3 style="text-align:center; padding-top: 10px; padding-bottom: 40px;">One-site solutions for all the cryptocurrency investors</h3>
+
+<div style="text-align:center; padding-bottom: 40px;">
 <button>Get started</button>
 <button>
   <i class="fa fa-play-circle-o"></i>
@@ -12,9 +14,11 @@
 </button>
 </div>
 
+</div>
+
 ## Products
 
-- CEX|DEX Liquid Management (for both teams & exchanges)
+- CEX and DEX Liquid Management (for both teams & exchanges)
   - Whole-site startup liquidity for CEX
   - Liquidity for teams, support most CEX
   - Market value management for teams, support CEX and DEX
