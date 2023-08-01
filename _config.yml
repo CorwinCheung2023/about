@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Corwin Finance
 logo: /assets/img/corwin-logo.png
+icon: /assets/img/favicon.ico
 description: Projects started with Corwin Finance
 
 gitalk:
