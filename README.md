@@ -1,8 +1,4 @@
-#
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-##
 
 <h1 style="text-align:center;">Corwin Finance</h1>
 
@@ -56,6 +52,14 @@
 - Veronica: Finance Manager
 
 - Yuki: Legal Advisor
+
+## Support CEX
+
+|                                                                      |                                                                              |                                                               |                                                                      |                                                                      |                                                              |
+| :------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------: |
+|   <p>![binance](./assets/img/cex/binance.png "Binance")</p>Binance   |     <p>![bitfinex](./assets/img/cex/bitfinex.png "Bitfinex")</p>Bitfinex     | <p>![bitget](./assets/img/cex/bitget.png "Bitget")</p>Bitget  |     <p>![bitmex](./assets/img/cex/bitmex.png "Bitmex")</p>Bitmex     | <p>![bitstamp](./assets/img/cex/bitstamp.png "Bitstamp")</p>Bitstamp |   <p>![bybit](./assets/img/cex/bybit.png "Bybit")</p>Bybit   |
+| <p>![coinbase](./assets/img/cex/coinbase.png "Coinbase")</p>Coinbase | <p>![crypto.com](./assets/img/cex/crypto-com.png "crypto.com")</p>crypto.com | <p>![gateio](./assets/img/cex/gateio.png "gateio")</p>Gate.io |       <p>![huobi](./assets/img/cex/huobi.png "Huobi")</p>Huobi       |     <p>![kraken](./assets/img/cex/kraken.png "Kraken")</p>Kraken     | <p>![kucoin](./assets/img/cex/kucoin.png "KuCoin")</p>KuCoin |
+|       <p>![lbank](./assets/img/cex/lbank.png "LBank")</p>LBank       |             <p>![mexc](./assets/img/cex/mexc.png "mexc")</p>Mexc             |     <p>![okex](./assets/img/cex/okex.png "okex")</p>OKEx      | <p>![Poloniex](./assets/img/cex/poloniex.png "Poloniex")</p>Poloniex |       <p>![UpBit](./assets/img/cex/upbit.png "UpBit")</p>UpBit       |                        A lot more...                         |
 
 ## Contact Us
 
