@@ -1,6 +1,6 @@
 # Corwin Cheung 的简历
 
-[中文](./README_CN.md) | [English](./README.md)
+[中文](./CorwinCV_CN.md) | [English](./CorwinCV.md)
 
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FCheungCorwin)
 ![Long Bitcoin](https://img.shields.io/badge/Forever_Long-Bitcoin-%23f2a900?logo=bitcoin)
@@ -8,7 +8,6 @@
 ![Keybase BTC](https://img.shields.io/keybase/btc/corwincheung)
 ![GitHub top language](https://img.shields.io/github/languages/top/CorwinCheung2023/about)
 
-<p style="text-align:left"><b>期望职位: <span style="font-size:20px">软件架构师</span></b></p>
 <p style="text-align:left"><b>电子邮件: corwin.cheung@proton.me</b></p>
 <p style="text-align:left"><b>网站地址: <a href="https://about.corwin.com.kg">about.corwin.com.kg</a></span></b></p>
 
