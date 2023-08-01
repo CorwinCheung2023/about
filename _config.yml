@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: Corwin's Space
+title: Corwin Finance
 logo: /assets/img/corwin-logo.png
-description: Corwin Cheung's projects, cv and personal information
+description: Projects started with Corwin Finance
 
 gitalk:
   clientID: 3d4a378445ce6c4eef4c

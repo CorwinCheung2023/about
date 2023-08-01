@@ -1,6 +1,6 @@
 # Corwin Cheung 的简历
 
-- [English](./README.md)
+[中文](./README_CN.md) | [English](./README.md)
 
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FCheungCorwin)
 ![Long Bitcoin](https://img.shields.io/badge/Forever_Long-Bitcoin-%23f2a900?logo=bitcoin)

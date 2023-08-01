@@ -1,6 +1,6 @@
 # Corwin Cheung
 
-- [中文](./README_CN.md)
+[中文](./README_CN.md) | [English](./README.md)
 
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FCheungCorwin)
 ![Long Bitcoin](https://img.shields.io/badge/Forever_Long-Bitcoin-%23f2a900?logo=bitcoin)
@@ -10,7 +10,7 @@
 
 <p style="text-align:left"><b>Career Objective: <span style="font-size:20px">Software Architect</span></b></p>
 <p style="text-align:left"><b>Email: corwin.cheung@proton.me</b></p>
-<p style="text-align:left"><b>Website: <a href="https://about.corwin.com.kg">about.corwin.com.kg</a></span></b></p>
+<p style="text-align:left"><b>Website: <a href="https://about.corwin.com.kg">about.corwin.com.kg</a></b></p>
 
 ## **Summary**
 
